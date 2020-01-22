@@ -1,5 +1,11 @@
 ### Your question goes here. Keep it straightforward.
 
+What are some main differences between CSS and SCSS?
+
+What can you tell us about single-page applications?
+
+
+
 <!-- If you need to display some code, keep it short. It goes here: -->
 
 ```html
@@ -14,6 +20,10 @@
 #### Answer
 
 <!-- Your answer goes here. -->
+
+SCSS is a dynamic version of CSS that allows you to do a certain degree of calcualation such as creating variables, mixins, and performing calculations.
+
+Single-page applications are built on different kinds of libraries such as React or Angular in which your browser is rendering a single page that loads different components into it. 
 
 <!-- If you need to display some code, keep it short. It goes here: -->
 
